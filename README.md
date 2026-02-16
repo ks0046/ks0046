@@ -12,6 +12,8 @@ As AI reshapes how governments operate and deliver services, I use this space to
 
 **[India Union Budget Chatbot](https://github.com/ks0046/budget-2024-chat)** — AI chatbot making India's ₹575 billion FY25 Union Budget navigable in plain language using LlamaIndex and GPT-4o.
 
+**[Airbnb LA Market Analysis](https://github.com/ks0046/AirBnB-LA-Market-Analysis)** — Data-driven analysis of LA's post-COVID home-sharing market examining price trends, affordability shifts, and listing success factors. Group project for Advanced AI & Enterprise Strategy at CMU.
+
 ## Skills
 
 R, Python, SQL, GIS, Streamlit, ClaudeCode
