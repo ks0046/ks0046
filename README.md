@@ -14,7 +14,7 @@ As AI reshapes how governments operate and deliver services, I use this space to
 
 ## Skills
 
-R, SQL, GIS, Streamlit, ClaudeCode
+R, Python, SQL, GIS, Streamlit, ClaudeCode
 
 ## Connect
 
